@@ -1,4 +1,7 @@
-## Hi there 👋
+I'm a Senior Lecturer and Docent in Logic.
+
+I did my PhD in Mathematics at the University of Birmingham and Chalmers University of Technology in 2004 with a thesis on mathematical logic and models of Peano's arithmetic, under supervision of Richard W. Kaye. After which I worked as a Senior Lecturer at the Mid Sweden University in Sundsvall before moving to the University of Gothenburg in 2006. Between 2016 and 2021 I served as the Head of the Department of Philosophy, Linguistics and Theory of Science.
+
 
 <!--
 **feffemannen/feffemannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
